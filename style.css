@@ -93,6 +93,11 @@ div.gallery {
     color: #16293D;
   }
 
+.pleasedonate{
+    text-align: center;
+    color: #16293D;
+    font-size: 40px;
+}
 #koalaFireImg{
     float: right;
 }
